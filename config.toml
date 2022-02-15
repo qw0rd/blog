@@ -1,4 +1,4 @@
-baseURL = "https://movsb.xyz/"
+baseURL = "https://m0vsb.github.io/blog"
 languageCode = "en-us"
 title = "movsb's blog"
 theme="archie"
