@@ -1,16 +1,15 @@
 +++
 title = "About"
-description = "Movsb"
+description = "qword"
 date = "2022-02-15"
-author = "dHugo Authors"
+author = "David John"
 +++
-
 
 Computer programming and security blog.
 
 Links: 
-- [Git Instance](https://git.movsb.xyz)
-- [Github](https://github.com/m0vsb)
+- [Git Instance](https://git.qword.space)
+- [Github](https://github.com/qw0rd)
 
 
 
