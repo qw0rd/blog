@@ -1,4 +1,4 @@
-baseURL = "https://www.qword.space/"
+baseURL = "https://qword.space/"
 languageCode = "en-us"
 title = "qword's blog"
 theme="archie"
