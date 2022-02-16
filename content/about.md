@@ -5,7 +5,7 @@ date = "2022-02-15"
 author = "David John"
 +++
 
-Computer programming and security blog.
+Computer programming and security blog (if i ever write anything).
 
 Links: 
 - [Git Instance](https://git.qword.space)
