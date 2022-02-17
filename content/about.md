@@ -3,9 +3,10 @@ title = "About"
 description = "qword"
 date = "2022-02-15"
 author = "David John"
+draft = true
 +++
 
-Computer programming and security blog (if i ever write anything).
+Systems programming and security blog (if i ever write anything).
 
 Links: 
 - [Git Instance](https://git.qword.space)
